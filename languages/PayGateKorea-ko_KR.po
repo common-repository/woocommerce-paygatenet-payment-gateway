@@ -1,0 +1,354 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce PayGate.net Gateway v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-11-24 15:00:25+0000\n"
+"Last-Translator: admin <heinrich.krupp@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: Korean\n"
+"X-Poedit-Country: KOREA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: paygate_gateway.php:216
+#, fuzzy
+#@ PayGateKorea
+msgid "REALTIME BANK TRANSFER"
+msgstr "실시간 은행 송금"
+
+#: paygate_gateway.php:217
+#, fuzzy
+#@ PayGateKorea
+msgid "BANK TRANSFER NOTICE"
+msgstr "은행 송금주의 사항"
+
+#: paygate_gateway.php:218
+#, fuzzy
+#@ PayGateKorea
+msgid "MOBILE PHONE"
+msgstr "이동 전화"
+
+#: paygate_gateway.php:235
+#@ PayGateKorea
+msgid "Enable/Disable"
+msgstr "활성화 / 비활성화"
+
+#: paygate_gateway.php:237
+#@ PayGateKorea
+msgid "Enable PayGate Payment Module."
+msgstr "PayGate 결제 모듈을 사용합니다"
+
+#: paygate_gateway.php:241
+#@ PayGateKorea
+msgid "Title:"
+msgstr "제목 :."
+
+#: paygate_gateway.php:243
+#@ PayGateKorea
+msgid "This controls the title which the user sees during checkout."
+msgstr "이것은 사용자가 체크 아웃하는 동안보고 제목을 제어합니다."
+
+#: paygate_gateway.php:245
+#@ PayGateKorea
+msgid "PayGate.net"
+msgstr "PayGate.net"
+
+#: paygate_gateway.php:248
+#@ PayGateKorea
+msgid "Description:"
+msgstr "설명 :"
+
+#: paygate_gateway.php:250
+#@ PayGateKorea
+msgid "This controls the description which the user sees during checkout."
+msgstr "이것은 사용자가 체크 아웃하는 동안보고 설명을 제어합니다."
+
+#: paygate_gateway.php:253
+#@ PayGateKorea
+msgid "Pay securely by international Credit card or Korean Debit card or Korean internet banking through PayGate Secure Servers."
+msgstr "PayGate 안전 서버를 통해 국제 신용 카드 또는 한국어 직불 카드 또는 한국어 인터넷 뱅킹으로 안전하게 지불합니다"
+
+#: paygate_gateway.php:256
+#@ PayGateKorea
+msgid "Merchant ID:"
+msgstr "판매자 ID :."
+
+#: paygate_gateway.php:258
+#@ PayGateKorea
+msgid "Please register your Merchant ID."
+msgstr "귀하의 판매자 ID를 등록하시기 바랍니다"
+
+#: paygate_gateway.php:260
+#@ PayGateKorea
+msgid "Merchant ID"
+msgstr "판매자 ID"
+
+#: paygate_gateway.php:277
+#@ PayGateKorea
+msgid "Merchant ID in use:"
+msgstr "사용중인 판매자 ID :"
+
+#: paygate_gateway.php:291
+#@ PayGateKorea
+msgid "Notification Email:"
+msgstr "알림 이메일 :"
+
+#: paygate_gateway.php:293
+#@ PayGateKorea
+msgid "This controls the notification email which the user sees during checkout."
+msgstr "이것은 사용자가 체크 아웃하는 동안보고 알림 이메일을 제어합니다."
+
+#: paygate_gateway.php:299
+#@ PayGateKorea
+msgid "CSS Style:"
+msgstr "CSS 스타일 :"
+
+#: paygate_gateway.php:316
+#@ PayGateKorea
+msgid "Payment Methods:"
+msgstr "지불 방법 :"
+
+#: paygate_gateway.php:318
+#@ PayGateKorea
+msgid "Allowed Payment Methods, multiple select option, <a href=\"https://km.paygate.net/pages/viewpage.action?pageId=721063\">read Customer documentation</a>"
+msgstr "허용 지불 방법, 다중 선택 옵션 - 만약 당신이 좋아하면 것인지의 href=\"https://km.paygate.net/pages/viewpage.action?pageId=721063\">보기 </ a> 고객 문서를 읽어"
+
+#: paygate_gateway.php:326
+#@ PayGateKorea
+msgid "Return Page"
+msgstr "페이지로 돌아 가기"
+
+#: paygate_gateway.php:332
+#@ PayGateKorea
+msgid "Debug Log"
+msgstr "디버그 로그"
+
+#: paygate_gateway.php:334
+#@ PayGateKorea
+msgid "Enable logging"
+msgstr "로깅을 활성화"
+
+#: paygate_gateway.php:383
+#@ PayGateKorea
+msgid "Callback URL:"
+msgstr "콜백 URL :"
+
+#: paygate_gateway.php:430
+#@ PayGateKorea
+msgid "PayGate - Thank you for your order, please select your desired payment method, then click the button below to pay with PayGate."
+msgstr "PayGate - 주문 주셔서 감사합니다, 원하는 지불 방법을 선택하십시오, PayGate로 지불하려면 아래 버튼을 클릭하십시오."
+
+#: paygate_gateway.php:489
+#@ PayGateKorea
+msgid "Callback"
+msgstr "콜백."
+
+#: paygate_gateway.php:582
+#@ PayGateKorea
+msgid "Cancel order &amp; restore cart"
+msgstr "주문 취소 및 카트를 복원"
+
+#: paygate_gateway.php:634
+#, fuzzy
+#@ PayGateKorea
+msgid "Thank you for shopping with us. Right now your payment status is processing, We will keep you posted regarding the status of your order through e-mail"
+msgstr "우리와 함께 쇼핑을 주셔서 감사합니다. 지금 당신의 지불 상태 처리, 우리는 전자 메일을 통해 주문 상태에 대해 당신이 게시 유지합니다"
+
+#: paygate_gateway.php:488
+#@ PayGateKorea
+msgid "PGIOform"
+msgstr "PGIOform"
+
+#: paygate_gateway.php:207
+#@ PayGateKorea
+msgid "CARD AUTO DETECTION"
+msgstr "카드 자동 감지"
+
+#: paygate_gateway.php:208
+#@ PayGateKorea
+msgid "CREDIT CARD BASIC KRW"
+msgstr "신용 카드 BASIC 원"
+
+#: paygate_gateway.php:212
+#@ PayGateKorea
+msgid "CREDIT CARD BASIC USD"
+msgstr "신용 카드 BASIC USD"
+
+#: paygate_gateway.php:215
+#@ PayGateKorea
+msgid "CREDIT CARD basic demo"
+msgstr "신용 카드 기본 데모"
+
+#: paygate_gateway.php:478
+#@ PayGateKorea
+msgid "Available payment methods:"
+msgstr "사용 가능한 지불 방법 :"
+
+#: paygate_gateway.php:301
+#@ PayGateKorea
+msgid "CSS Style. For custom style edit custom-form.css in plugin directory"
+msgstr "CSS 스타일. 플러그인 디렉토리에있는 사용자 정의 스타일 편집을위한 사용자 정의 form.css"
+
+#: paygate_gateway.php:311
+#@ PayGateKorea
+msgid "custom style"
+msgstr "사용자 정의 스타일"
+
+#: paygate_gateway.php:372
+#@ PayGateKorea
+msgid "Server to Server transaction verification is <strong>active</strong>."
+msgstr "서버 트랜잭션 검증 서버는 <strong>에서 </strong> 활성화됩니다."
+
+#: paygate_gateway.php:372
+#@ PayGateKorea
+msgid "Server to Server Transaction verification is <strong>inactive</strong>. To activate it select your own Merchant ID for use."
+msgstr "서버 트랜잭션 검증 서버의 <strong> 비활성 </strong>을 수 있습니다. 그것은 사용하기 위해 자신의 가맹점 ID를 선택 활성화합니다."
+
+#: paygate_gateway.php:723
+#@ PayGateKorea
+msgid "Sorry, this transaction failed, please try again. Error: replycode<br/>Error message: replyMsg"
+msgstr "죄송합니다,이 트랜잭션이 실패, 다시 시도하십시오. 오류 : replyMsg : replycode 오류 메시지가 <BR/>"
+
+#: paygate_gateway.php:152
+#@ PayGateKorea
+msgid "Transactions"
+msgstr "업무"
+
+#: paygate_gateway.php:153
+#@ PayGateKorea
+msgid "Currency"
+msgstr "통화"
+
+#: paygate_gateway.php:154
+#@ PayGateKorea
+msgid "Total"
+msgstr "합계"
+
+#: paygate_gateway.php:364
+#@ PayGateKorea
+msgid "Gateway Enabled"
+msgstr "게이트웨이 사용"
+
+#: paygate_gateway.php:376
+#@ PayGateKorea
+msgid "Shop Currency"
+msgstr "가게 통화"
+
+#: paygate_gateway.php:395
+#@ PayGateKorea
+msgid "Server Name"
+msgstr "서버 이름"
+
+#: paygate_gateway.php:364
+#@ PayGateKorea
+msgid "Gateway Status"
+msgstr "게이트웨이 상태"
+
+#: paygate_gateway.php:370
+#@ PayGateKorea
+msgid "Verification mode"
+msgstr "확인 모드"
+
+#: paygate_gateway.php:370
+#@ PayGateKorea
+msgid "Server2Server Transaction Verification"
+msgstr "서버 트랜잭션 검증 서버"
+
+#: paygate_gateway.php:376
+#@ PayGateKorea
+msgid "Current shop currency"
+msgstr "현재 가게 통화"
+
+#: paygate_gateway.php:384
+#@ PayGateKorea
+msgid "very important"
+msgstr "매우 중요"
+
+#: paygate_gateway.php:390
+#@ PayGateKorea
+msgid "Fixed URL you have to register at your PayGate.net merchant account for Server to Server verification. Redirect Transaction Result go to https://admin.paygate.net / HomePage / Member Management / Setup Service Option / Redirect the transaction result...use \"Use BackGround Redirect\" and set the URL as shown above"
+msgstr "고정 URL 당신은 서버 검증 서버에 대한 귀하의 PayGate.net 상인 계정을 등록해야합니다. 리디렉션 트랜잭션 결과 https://admin.paygate.net / 홈페이지 / 회원 관리 / 설치 서비스 옵션으로 이동 / 트랜잭션 결과를 리디렉션 ... 사용 \\ \\\"사용 배경 \\ 리디렉션\\\"이상과 같이 URL을 설정"
+
+#: paygate_gateway.php:395
+#@ PayGateKorea
+msgid "Your domain server name"
+msgstr "도메인 서버 이름"
+
+#: paygate_gateway.php:401
+#@ PayGateKorea
+msgid "Transaction log"
+msgstr "트랜잭션 로그"
+
+#: paygate_gateway.php:401
+#@ PayGateKorea
+msgid "information about transactions amount/currency and the transaction count/currency"
+msgstr "거래 금액 / 통화 및 거래 횟수 / 통화에 대한 정보"
+
+#: paygate_gateway.php:636
+#@ PayGateKorea
+msgid "PayGate - Payment status is pending<br/>Unique Id from PayGate:"
+msgstr "PayGate - 지불 상태는 PayGate의 고유 ID를 <BR/> 대기 중입니다 :"
+
+#: paygate_gateway.php:263
+#@ PayGateKorea
+msgid "Merchant Hash Salt:"
+msgstr "상인 해시 소금 :"
+
+#: paygate_gateway.php:265
+#, fuzzy
+#@ PayGateKorea
+msgid "This is the salt used to create the Hash key. For example: \"test1\" is default for merchant ID \"paygatekr\""
+msgstr "이는 해시 키를 생성하는 데 사용되는 염이다. 예를 들어 : \\ \\\"TEST1의 \"는 상인 ID의 \\ \\\"paygatekr \"의 기본이다."
+
+#: paygate_gateway.php:188
+#@ PayGateKorea
+msgid "PayGate - Transaction completed. Thank you for shopping with us."
+msgstr "PayGate - 트랜잭션이 완료되었습니다. 우리와 함께 쇼핑을 주셔서 감사합니다."
+
+#: paygate_gateway.php:267
+#@ PayGateKorea
+msgid "your_salt_here"
+msgstr "당신의 소금 여기에"
+
+#: paygate_gateway.php:279
+#: paygate_gateway.php:281
+#@ PayGateKorea
+msgid "Use \"paygatekr\" or \"paygateus\" for testing purposes. Select your own ID for production."
+msgstr "테스트 목적으로 \\ \\\"paygatekr의 \"또는 \\ \\\"paygateus의 \"를 사용합니다. 생산에 대한 자신의 ID를 선택합니다."
+
+#: paygate_gateway.php:336
+#, php-format
+#@ PayGateKorea
+msgid "Log PayGate events, such as PayGate requests, inside <code>../plugins/woocommerce/logs/paygate-%s.txt</code><br/> and furthermore allows the Admin to toggle the PGIOform on \"Checkout\" page."
+msgstr "등의 <code> ../plugins/woocommerce/logs/paygate- % s.txt </ 코드> <br/> 내부 PayGate의 요청으로 PayGate 이벤트를 로그인하고 또한 관리자는 \\ \\\"체크 아웃 \\에 PGIOform을 전환 할 수 있습니다 \\\"페이지를 참조하십시오."
+
+#: paygate_gateway.php:434
+#@ PayGateKorea
+msgid "PayGate - Thank you for your order, click the button below to pay with PayGate."
+msgstr "PayGate는 - PayGate로 지불 아래의 버튼을 클릭하여 주문을 부탁드립니다."
+
+#: paygate_gateway.php:350
+#@ PayGateKorea
+msgid "Click here to visit PayGate.net"
+msgstr "PayGate.net를 방문하려면 여기를 클릭하십시오"
+
+#: paygate_gateway.php:351
+#@ PayGateKorea
+msgid "Click here to manage your PayGate merchant account."
+msgstr "당신의 PayGate의 상인 계정을 관리하기 위해 여기를 클릭하십시오."
+
+#: paygate_gateway.php:354
+#@ PayGateKorea
+msgid " ....the most popular payment gateway for online shopping in Korea!"
+msgstr ".... 한국의 온라인 쇼핑에 대한 가장 인기있는 지불 게이트웨이!"
+
